@@ -1,4 +1,4 @@
-<!-- ### Hi there 👋 -->
+### Hi there 👋, I'm Gagan Arora
 
 <!--
 **gagan257/gagan257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
