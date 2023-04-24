@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=gagan257&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gagan257&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gagan257&theme=dark&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![WordPress](https://img.shields.io/badge/wordpress-%2300f.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 
-[![Pranjal's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gagan257&theme=react-dark)](https://github.com/gagan257/github-readme-activity-graph)
+[![Gagan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gagan257&theme=react-dark)](https://github.com/gagan257/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagan_257) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagan-arora-26343722a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21368438/gagan-arora) 
@@ -44,9 +44,5 @@ Here are some ideas to get you started:
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 
 <img height="120" alt="Thank you for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
