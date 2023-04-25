@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 </a>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gagan257&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gagan257&theme=radical&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gagan257&theme=radical&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
