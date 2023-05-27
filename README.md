@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![Gagan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gagan257&theme=react-dark)](https://github.com/gagan257/github-readme-activity-graph)
+<!-- [![Gagan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gagan257&theme=react-dark)](https://github.com/gagan257/github-readme-activity-graph) -->
+[![Gagan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gagan257&bg_color=0d0d0d&color=ff0000&line=9d9e4c&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gagan_257) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gagan-arora-26343722a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21368438/gagan-arora) 
