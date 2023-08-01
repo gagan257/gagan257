@@ -39,7 +39,7 @@
 <p align="center">
 <a href="https://instagram.com/gagan_257"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/gagan-arora-26343722a/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/21368438/gagan-arora"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a>
+<!-- <a href="https://stackoverflow.com/users/21368438/gagan-arora"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" /></a> -->
 <a href="https://gagan.click/"><img src="https://img.shields.io/badge/🌐 Portfolio Website-red" /></a>
 </p>
 <br>
