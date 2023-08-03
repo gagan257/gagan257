@@ -1,6 +1,9 @@
 <h2 align="center"> Hi there 👋, I'm Gagan Arora </h2>
 
-<p align="center"> <a href="https://gagan.click/#Contact">Contact me</a> </p>
+
+<p align="center">
+<a href="https://gagan.click/#Contact"><img src="https://img.shields.io/badge/Contact%20Me-red?style=for-the-badge" /></a>
+</p>
 
 <p align="center"> <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=gagan257&label=Profile%20Views&color=4&icon=2&pretty=true" />
