@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<a href="https://gagan.click/#Contact"><img src="https://img.shields.io/badge/Contact%20Me-red?style=for-the-badge" /></a>
+<a href="https://contact-gagan.netlify.app/"><img src="https://img.shields.io/badge/Contact%20Me-red?style=for-the-badge" /></a>
 </p>
 
 <p align="center"> <a href="https://visitcount.itsvg.in">
