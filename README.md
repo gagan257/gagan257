@@ -33,7 +33,8 @@
 ![Sequelize](https://img.shields.io/badge/sequelize-%2300f.svg?style=for-the-badge&logo=sequelize&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-%2300f.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/typescript-%230769AD.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 [![Gagan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gagan257&bg_color=0d0d0d&color=ff0000&line=9d9e4c&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
