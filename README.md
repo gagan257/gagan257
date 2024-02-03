@@ -7,6 +7,9 @@
 
 <p align="center"> <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=gagan257&label=Profile%20Views&color=4&icon=2&pretty=true" />
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/gagan257" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </a> </p>
 <br>
 
